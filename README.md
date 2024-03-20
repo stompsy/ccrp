@@ -1,8 +1,8 @@
 ## Requirements
 
-Python = 3.12.0  
-Django = 5.0.3  
-Tailwindcss
+Django: 5.0.3  
+Tailwindcss: ^0.5.7  
+Tailwindcss/forms: ^3.4.1
 
 ## Install Python
 
