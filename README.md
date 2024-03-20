@@ -6,16 +6,11 @@ Tailwindcss
 
 ## Install Python
 
-[Python.org](https://www.python.org/downloads/release/python-3122/)
+Download Python here: [Python.org](https://www.python.org/downloads/release/python-3122/)
 
-Linux: [Python 3.12.2 Gzipped source tarball](https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz)  
-Linux: [Python 3.12.2 XZ compressed source tarball](https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tar.xz)
+You can follow this tutorial to install Python 3 at realpython.com:
 
-macOS: [macOS 64-bit universal2 installer](https://www.python.org/ftp/python/3.12.2/python-3.12.2-macos11.pkg)
-
-Windows: [Windows installer (64-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)  
-Windows: [Windows installer (ARM64)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-arm64.exe)  
-Windows: [Windows installer (32-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2.exe)
+[Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
 
 ## Check Python version
 
@@ -29,9 +24,9 @@ python3 --version
 
 ## Clone Github directory
 
-HTTPS: **\https://github.com/stompsy/ccrp.git\**  
-SSH: **\git@github.com:stompsy/ccrp.git\*\*  
-GitHub CLI: **gh repo clone stompsy/ccrp**
+HTTPS: `https://github.com/stompsy/ccrp.git`  
+SSH: `git@github.com:stompsy/ccrp.git`  
+GitHub CLI: `gh repo clone stompsy/ccrp`
 
 ## Create virtual Python environment
 
