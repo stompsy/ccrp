@@ -8,18 +8,18 @@ Tailwindcss
 
 [Python.org](https://www.python.org/downloads/release/python-3122/)
 
-- Linux: [Python 3.12.2 Gzipped source tarball](https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz)
-- Linux: [Python 3.12.2 XZ compressed source tarball](https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tar.xz)
+Linux: [Python 3.12.2 Gzipped source tarball](https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz)  
+Linux: [Python 3.12.2 XZ compressed source tarball](https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tar.xz)
 
-- macOS: [macOS 64-bit universal2 installer](https://www.python.org/ftp/python/3.12.2/python-3.12.2-macos11.pkg)
+macOS: [macOS 64-bit universal2 installer](https://www.python.org/ftp/python/3.12.2/python-3.12.2-macos11.pkg)
 
-- Windows: [Windows installer (64-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)
-- Windows: [Windows installer (ARM64)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-arm64.exe)
-- Windows: [Windows installer (32-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2.exe)
+Windows: [Windows installer (64-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)  
+Windows: [Windows installer (ARM64)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-arm64.exe)  
+Windows: [Windows installer (32-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2.exe)
 
 ## Check Python version
 
-The following instructions will be for Linux terminals.
+The following instructions are for Linux terminals.
 
 ```shell
 python3 -V
@@ -29,9 +29,9 @@ python3 --version
 
 ## Clone Github directory
 
-HTTPS: https://github.com/stompsy/ccrp.git  
-SSH: git@github.com:stompsy/ccrp.git  
-GitHub CLI: gh repo clone stompsy/ccrp
+HTTPS: **\https://github.com/stompsy/ccrp.git\**  
+SSH: **\git@github.com:stompsy/ccrp.git\*\*  
+GitHub CLI: **gh repo clone stompsy/ccrp**
 
 ## Create virtual Python environment
 
@@ -64,7 +64,7 @@ npm install -D tailwindcss
 
 ## Run development server & Tailwindcss watch script
 
-From the **src** directory, or wherever your **manage.py** file is located, run:
+From the `src` directory, or wherever your `manage.py` file is located, run:
 
 ```shell
 python manage.py runserver
